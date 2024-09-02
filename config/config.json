@@ -1,0 +1,14 @@
+{
+  "development": {
+    "username": "example",
+    "password": "example",
+    "database": "example",
+    "host": "127.0.0.1",
+    "dialect": "example"
+  }
+}
+
+
+
+
+
